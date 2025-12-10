@@ -1,5 +1,5 @@
 <!-- Encabezado animado -->
-<img src="https://github.com/sourabmaity/sourabmaity/blob/main/text.gif" height="30">
+<!--<img src="https://github.com/sourabmaity/sourabmaity/blob/main/text.gif" height="30">-->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -7,10 +7,12 @@
 
 # Hola, soy Mateo Orozco Baldovino 👋
 
-Analista de datos en formación y desarrollador con enfoque en **Data Analysis**, **ETL**, **automatización**, y la construcción de soluciones basadas en Python.  
+Analista de datos en formación y desarrollador con enfoque en **Data Analysis**, **automatización**, y la construcción de soluciones basadas en Python.  
 Cuento con conocimientos en estadística aplicada al análisis de datos.  
 
-Mi propósito: transformar datos en decisiones y dar el salto definitivo desde al mundo del análisis y la ingeniería de datos en diferentes areas.
+<!-- Mi propósito: transformar datos en decisiones y dar el salto definitivo desde el análisis al mundo de la ingeniería de datos en diferentes áreas. -->
+
+
 
 ---
 
