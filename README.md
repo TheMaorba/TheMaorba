@@ -1,13 +1,13 @@
 <!-- Encabezado animado -->
-<!--<img src="https://github.com/sourabmaity/sourabmaity/blob/main/text.gif" height="30">-->
+<img src="textanim.gif" height="30">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="encabezado1.png" width="650" height="300">
+<img src="finalimagen2.png" width="2000" height="400">
 
 
 
-# Hi there, I'm Mateo Orozco Baldovino 👋
+# Hi there, I'm [Mateo Orozco Baldovino](mateoorozcobaldovino.netlify.app) 👋
 
 Data Analyst and Full Stack Developer in training, specializing in **Data Analysis**, **automation**, and **Python-based solutions**.  
 Skilled in applied statistics for data-driven insights.
@@ -27,6 +27,8 @@ Skilled in applied statistics for data-driven insights.
 - 🤝 Interested in collaborating on data analysis, dashboards, and automation projects
 - 💬 Let's talk about exploratory data analysis, visualization, or simple statistical modeling
 - 📫 Contact: **mateob-1097@hotmail.com**
+- 🌐 Portfolio: [mateoorozcobaldovino.netlify.app](https://mateoorozcobaldovino.netlify.app/)
+
 
 
 
