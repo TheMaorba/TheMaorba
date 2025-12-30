@@ -9,7 +9,7 @@
 
 # Hi there, I'm [Mateo Orozco Baldovino](mateoorozcobaldovino.netlify.app) 👋
 
-Data Analyst and Full Stack Developer in training, specializing in **Data Analysis**, **automation**, and **Python-based solutions**.  
+Data Analyst, specializing in **Data Analysis**, **automation**, and **Python-based solutions**.  
 Skilled in applied statistics for data-driven insights.
  
 
