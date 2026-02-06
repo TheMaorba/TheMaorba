@@ -7,13 +7,11 @@
 
 
 
-# Hi there, I'm [Mateo Orozco Baldovino](mateoorozcobaldovino.netlify.app) 👋
+<!-- # Hi there, I'm [Mateo Orozco Baldovino](mateoorozcobaldovino.netlify.app) 👋
 
 Data Analyst, specializing in **Data Analysis**, **automation**, and **Python-based solutions**.  
 Skilled in applied statistics for data-driven insights.
  
-
-<!-- Mi propósito: transformar datos en decisiones y dar el salto definitivo desde el análisis al mundo de la ingeniería de datos en diferentes áreas. -->
 
 
 
@@ -39,7 +37,7 @@ Skilled in applied statistics for data-driven insights.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg' height='40' style='fill: #0A66C2;'>](https://www.linkedin.com/in/mateobaldovino/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg' height='40'>](https://github.com/TheMaorba)
 
-
+-->
 ---
 
 ## 🧠 Technologies and Tools
